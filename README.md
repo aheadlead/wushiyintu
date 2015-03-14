@@ -8,7 +8,7 @@
 ![ま](ma.png)
 
 # 用法
-下载 My Dictionary.dictionary.zip ，解压
+下载 My Dictionary.dictionary.zip ，解压  
 把 My Dictionary.dictionary 扔到 ~/Library/Dictionaries 就可以了。
   
 # PS
