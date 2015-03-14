@@ -1,0 +1,408 @@
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="a" d:title="a">
+    
+    <h1>あ ア a</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="i" d:title="i">
+    
+    <h1>い イ i</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="u" d:title="u">
+    
+    <h1>う ウ u</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="e" d:title="e">
+    
+    <h1>え エ e</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="o" d:title="o">
+    
+    <h1>お オ o</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ka" d:title="ka">
+    
+    <h1>か カ ka</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ki" d:title="ki">
+    
+    <h1>き キ ki</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ku" d:title="ku">
+    
+    <h1>く ク ku</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ke" d:title="ke">
+    
+    <h1>け ケ ke</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ko" d:title="ko">
+    
+    <h1>こ コ ko</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="sa" d:title="sa">
+    
+    <h1>さ サ sa</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="shi" d:title="shi">
+    
+    <h1>し シ shi</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="su" d:title="su">
+    
+    <h1>す ス su</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="se" d:title="se">
+    
+    <h1>せ セ se</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="so" d:title="so">
+    
+    <h1>そ ソ so</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ta" d:title="ta">
+    
+    <h1>た タ ta</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="chi" d:title="chi">
+    
+    <h1>ち チ chi</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="tsu" d:title="tsu">
+    
+    <h1>つ ツ tsu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="te" d:title="te">
+    
+    <h1>て テ te</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="to" d:title="to">
+    
+    <h1>と ト to</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="na" d:title="na">
+    
+    <h1>な ナ na</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ni" d:title="ni">
+    
+    <h1>に ニ ni</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="nu" d:title="nu">
+    
+    <h1>ぬ ヌ nu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ne" d:title="ne">
+    
+    <h1>ね ネ ne</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="no" d:title="no">
+    
+    <h1>の ノ no</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ha" d:title="ha">
+    
+    <h1>は ハ ha</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="hi" d:title="hi">
+    
+    <h1>ひ ヒ hi</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="fu" d:title="fu">
+    
+    <h1>ふ フ fu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="he" d:title="he">
+    
+    <h1>へ ヘ he</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ho" d:title="ho">
+    
+    <h1>ほ ホ ho</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ma" d:title="ma">
+    
+    <h1>ま マ ma</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mi" d:title="mi">
+    
+    <h1>み ミ mi</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mu" d:title="mu">
+    
+    <h1>む ム mu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="me" d:title="me">
+    
+    <h1>め メ me</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mo" d:title="mo">
+    
+    <h1>も モ mo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ra" d:title="ra">
+    
+    <h1>ら ラ ra</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ri" d:title="ri">
+    
+    <h1>り リ ri</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ru" d:title="ru">
+    
+    <h1>る ル ru</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="re" d:title="re">
+    
+    <h1>れ レ re</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ro" d:title="ro">
+    
+    <h1>ろ ロ ro</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ya" d:title="ya">
+    
+    <h1>や ヤ ya</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="yu" d:title="yu">
+    
+    <h1>ゆ ユ yu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="yo" d:title="yo">
+    
+    <h1>よ ヨ yo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="wa" d:title="wa">
+    
+    <h1>わ ワ wa</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="wo" d:title="wo">
+    
+    <h1>を ヲ wo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="n" d:title="n">
+    
+    <h1>ん ん n</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ga" d:title="ga">
+    
+    <h1>が ガ ga</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="gi" d:title="gi">
+    
+    <h1>ぎ ギ gi</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="gu" d:title="gu">
+    
+    <h1>ぐ グ gu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ge" d:title="ge">
+    
+    <h1>げ ゲ ge</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="go" d:title="go">
+    
+    <h1>ご ゴ go</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="za" d:title="za">
+    
+    <h1>ざ ザ za</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ji" d:title="ji">
+    
+    <h1>じ ジ ji</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="zu" d:title="zu">
+    
+    <h1>ず ズ zu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ze" d:title="ze">
+    
+    <h1>ぜ ゼ ze</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="zo" d:title="zo">
+    
+    <h1>ぞ ゾ zo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="da" d:title="da">
+    
+    <h1>だ ダ da</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="de" d:title="de">
+    
+    <h1>で デ de</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="do" d:title="do">
+    
+    <h1>ど ド do</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ba" d:title="ba">
+    
+    <h1>ば バ ba</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="bi" d:title="bi">
+    
+    <h1>び ビ bi</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="bu" d:title="bu">
+    
+    <h1>ぶ ブ bu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="be" d:title="be">
+    
+    <h1>べ ベ be</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="bo" d:title="bo">
+    
+    <h1>ぼ ボ bo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pa" d:title="pa">
+    
+    <h1>ぱ パ pa</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pi" d:title="pi">
+    
+    <h1>ぴ ピ pi</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pu" d:title="pu">
+    
+    <h1>ぷ プ pu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pe" d:title="pe">
+    
+    <h1>ぺ ペ pe</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="po" d:title="po">
+    
+    <h1>ぽ ポ po</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="kya" d:title="kya">
+    
+    <h1>きゃ キャ kya</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="kyu" d:title="kyu">
+    
+    <h1>きゅ キュ kyu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="kyo" d:title="kyo">
+    
+    <h1>きょ キョ kyo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="gya" d:title="gya">
+    
+    <h1>ぎゃ ギャ gya</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="gyu" d:title="gyu">
+    
+    <h1>ぎゅ ギュ gyu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="gyo" d:title="gyo">
+    
+    <h1>ぎょ ギョ gyo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="sha" d:title="sha">
+    
+    <h1>しゃ シャ sha</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="shu" d:title="shu">
+    
+    <h1>しゅ シュ shu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="sho" d:title="sho">
+    
+    <h1>しょ ショ sho</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ja" d:title="ja">
+    
+    <h1>じゃ ジャ ja</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ju" d:title="ju">
+    
+    <h1>じゅ ジュ ju</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="jo" d:title="jo">
+    
+    <h1>じょ ジョ jo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cha" d:title="cha">
+    
+    <h1>ちゃ チャ cha</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="chu" d:title="chu">
+    
+    <h1>ちゅ チュ chu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="cho" d:title="cho">
+    
+    <h1>ちょ チョ cho</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="nya" d:title="nya">
+    
+    <h1>にゃ ニャ nya</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="nyu" d:title="nyu">
+    
+    <h1>にゅ ニュ nyu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="nyo" d:title="nyo">
+    
+    <h1>にょ ニョ nyo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="hya" d:title="hya">
+    
+    <h1>ひゃ ヒャ hya</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="hyu" d:title="hyu">
+    
+    <h1>ひゅ ヒュ hyu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="hyo" d:title="hyo">
+    
+    <h1>ひょ ヒョ hyo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="bya" d:title="bya">
+    
+    <h1>びゃ ビャ bya</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="byu" d:title="byu">
+    
+    <h1>びゅ ビュ byu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="byo" d:title="byo">
+    
+    <h1>びょ ビョ byo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pya" d:title="pya">
+    
+    <h1>ぴゃ ピャ pya</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pyu" d:title="pyu">
+    
+    <h1>ぴゅ ピュ pyu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="pyo" d:title="pyo">
+    
+    <h1>ぴょ ピョ pyo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="mya" d:title="mya">
+    
+    <h1>みゃ ミャ mya</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="myu" d:title="myu">
+    
+    <h1>みゅ ミュ myu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="myo" d:title="myo">
+    
+    <h1>みょ ミョ myo</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="rya" d:title="rya">
+    
+    <h1>りゃ リャ rya</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ryu" d:title="ryu">
+    
+    <h1>りゅ リュ ryu</h1>
+</d:entry>
+<d:entry xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng" id="ryo" d:title="ryo">
+    
+    <h1>りょ リョ ryo</h1>
+</d:entry>

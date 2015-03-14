@@ -1,0 +1,623 @@
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	This is a sample dictionary source file.
+	It can be built using Dictionary Development Kit.
+-->
+<d:dictionary xmlns="http://www.w3.org/1999/xhtml" xmlns:d="http://www.apple.com/DTDs/DictionaryService-1.0.rng">
+
+
+<d:entry id="a" d:title="a">
+    <d:index d:value="あ" />
+    <d:index d:value="ア" />
+    <h1>あ ア a</h1>
+</d:entry>
+
+<d:entry id="i" d:title="i">
+    <d:index d:value="い" />
+    <d:index d:value="イ" />
+    <h1>い イ i</h1>
+</d:entry>
+
+<d:entry id="u" d:title="u">
+    <d:index d:value="う" />
+    <d:index d:value="ウ" />
+    <h1>う ウ u</h1>
+</d:entry>
+
+<d:entry id="e" d:title="e">
+    <d:index d:value="え" />
+    <d:index d:value="エ" />
+    <h1>え エ e</h1>
+</d:entry>
+
+<d:entry id="o" d:title="o">
+    <d:index d:value="お" />
+    <d:index d:value="オ" />
+    <h1>お オ o</h1>
+</d:entry>
+
+<d:entry id="ka" d:title="ka">
+    <d:index d:value="か" />
+    <d:index d:value="カ" />
+    <h1>か カ ka</h1>
+</d:entry>
+
+<d:entry id="ki" d:title="ki">
+    <d:index d:value="き" />
+    <d:index d:value="キ" />
+    <h1>き キ ki</h1>
+</d:entry>
+
+<d:entry id="ku" d:title="ku">
+    <d:index d:value="く" />
+    <d:index d:value="ク" />
+    <h1>く ク ku</h1>
+</d:entry>
+
+<d:entry id="ke" d:title="ke">
+    <d:index d:value="け" />
+    <d:index d:value="ケ" />
+    <h1>け ケ ke</h1>
+</d:entry>
+
+<d:entry id="ko" d:title="ko">
+    <d:index d:value="こ" />
+    <d:index d:value="コ" />
+    <h1>こ コ ko</h1>
+</d:entry>
+
+<d:entry id="sa" d:title="sa">
+    <d:index d:value="さ" />
+    <d:index d:value="サ" />
+    <h1>さ サ sa</h1>
+</d:entry>
+
+<d:entry id="shi" d:title="shi">
+    <d:index d:value="し" />
+    <d:index d:value="シ" />
+    <h1>し シ shi</h1>
+</d:entry>
+
+<d:entry id="su" d:title="su">
+    <d:index d:value="す" />
+    <d:index d:value="ス" />
+    <h1>す ス su</h1>
+</d:entry>
+
+<d:entry id="se" d:title="se">
+    <d:index d:value="せ" />
+    <d:index d:value="セ" />
+    <h1>せ セ se</h1>
+</d:entry>
+
+<d:entry id="so" d:title="so">
+    <d:index d:value="そ" />
+    <d:index d:value="ソ" />
+    <h1>そ ソ so</h1>
+</d:entry>
+
+<d:entry id="ta" d:title="ta">
+    <d:index d:value="た" />
+    <d:index d:value="タ" />
+    <h1>た タ ta</h1>
+</d:entry>
+
+<d:entry id="chi" d:title="chi">
+    <d:index d:value="ち" />
+    <d:index d:value="チ" />
+    <h1>ち チ chi</h1>
+</d:entry>
+
+<d:entry id="tsu" d:title="tsu">
+    <d:index d:value="つ" />
+    <d:index d:value="ツ" />
+    <h1>つ ツ tsu</h1>
+</d:entry>
+
+<d:entry id="te" d:title="te">
+    <d:index d:value="て" />
+    <d:index d:value="テ" />
+    <h1>て テ te</h1>
+</d:entry>
+
+<d:entry id="to" d:title="to">
+    <d:index d:value="と" />
+    <d:index d:value="ト" />
+    <h1>と ト to</h1>
+</d:entry>
+
+<d:entry id="na" d:title="na">
+    <d:index d:value="な" />
+    <d:index d:value="ナ" />
+    <h1>な ナ na</h1>
+</d:entry>
+
+<d:entry id="ni" d:title="ni">
+    <d:index d:value="に" />
+    <d:index d:value="ニ" />
+    <h1>に ニ ni</h1>
+</d:entry>
+
+<d:entry id="nu" d:title="nu">
+    <d:index d:value="ぬ" />
+    <d:index d:value="ヌ" />
+    <h1>ぬ ヌ nu</h1>
+</d:entry>
+
+<d:entry id="ne" d:title="ne">
+    <d:index d:value="ね" />
+    <d:index d:value="ネ" />
+    <h1>ね ネ ne</h1>
+</d:entry>
+
+<d:entry id="no" d:title="no">
+    <d:index d:value="の" />
+    <d:index d:value="ノ" />
+    <h1>の ノ no</h1>
+</d:entry>
+
+<d:entry id="ha" d:title="ha">
+    <d:index d:value="は" />
+    <d:index d:value="ハ" />
+    <h1>は ハ ha</h1>
+</d:entry>
+
+<d:entry id="hi" d:title="hi">
+    <d:index d:value="ひ" />
+    <d:index d:value="ヒ" />
+    <h1>ひ ヒ hi</h1>
+</d:entry>
+
+<d:entry id="fu" d:title="fu">
+    <d:index d:value="ふ" />
+    <d:index d:value="フ" />
+    <h1>ふ フ fu</h1>
+</d:entry>
+
+<d:entry id="he" d:title="he">
+    <d:index d:value="へ" />
+    <d:index d:value="ヘ" />
+    <h1>へ ヘ he</h1>
+</d:entry>
+
+<d:entry id="ho" d:title="ho">
+    <d:index d:value="ほ" />
+    <d:index d:value="ホ" />
+    <h1>ほ ホ ho</h1>
+</d:entry>
+
+<d:entry id="ma" d:title="ma">
+    <d:index d:value="ま" />
+    <d:index d:value="マ" />
+    <h1>ま マ ma</h1>
+</d:entry>
+
+<d:entry id="mi" d:title="mi">
+    <d:index d:value="み" />
+    <d:index d:value="ミ" />
+    <h1>み ミ mi</h1>
+</d:entry>
+
+<d:entry id="mu" d:title="mu">
+    <d:index d:value="む" />
+    <d:index d:value="ム" />
+    <h1>む ム mu</h1>
+</d:entry>
+
+<d:entry id="me" d:title="me">
+    <d:index d:value="め" />
+    <d:index d:value="メ" />
+    <h1>め メ me</h1>
+</d:entry>
+
+<d:entry id="mo" d:title="mo">
+    <d:index d:value="も" />
+    <d:index d:value="モ" />
+    <h1>も モ mo</h1>
+</d:entry>
+
+<d:entry id="ra" d:title="ra">
+    <d:index d:value="ら" />
+    <d:index d:value="ラ" />
+    <h1>ら ラ ra</h1>
+</d:entry>
+
+<d:entry id="ri" d:title="ri">
+    <d:index d:value="り" />
+    <d:index d:value="リ" />
+    <h1>り リ ri</h1>
+</d:entry>
+
+<d:entry id="ru" d:title="ru">
+    <d:index d:value="る" />
+    <d:index d:value="ル" />
+    <h1>る ル ru</h1>
+</d:entry>
+
+<d:entry id="re" d:title="re">
+    <d:index d:value="れ" />
+    <d:index d:value="レ" />
+    <h1>れ レ re</h1>
+</d:entry>
+
+<d:entry id="ro" d:title="ro">
+    <d:index d:value="ろ" />
+    <d:index d:value="ロ" />
+    <h1>ろ ロ ro</h1>
+</d:entry>
+
+<d:entry id="ya" d:title="ya">
+    <d:index d:value="や" />
+    <d:index d:value="ヤ" />
+    <h1>や ヤ ya</h1>
+</d:entry>
+
+<d:entry id="yu" d:title="yu">
+    <d:index d:value="ゆ" />
+    <d:index d:value="ユ" />
+    <h1>ゆ ユ yu</h1>
+</d:entry>
+
+<d:entry id="yo" d:title="yo">
+    <d:index d:value="よ" />
+    <d:index d:value="ヨ" />
+    <h1>よ ヨ yo</h1>
+</d:entry>
+
+<d:entry id="wa" d:title="wa">
+    <d:index d:value="わ" />
+    <d:index d:value="ワ" />
+    <h1>わ ワ wa</h1>
+</d:entry>
+
+<d:entry id="wo" d:title="wo">
+    <d:index d:value="を" />
+    <d:index d:value="ヲ" />
+    <h1>を ヲ wo</h1>
+</d:entry>
+
+<d:entry id="n" d:title="n">
+    <d:index d:value="ん" />
+    <d:index d:value="ん" />
+    <h1>ん ん n</h1>
+</d:entry>
+
+<d:entry id="ga" d:title="ga">
+    <d:index d:value="が" />
+    <d:index d:value="ガ" />
+    <h1>が ガ ga</h1>
+</d:entry>
+
+<d:entry id="gi" d:title="gi">
+    <d:index d:value="ぎ" />
+    <d:index d:value="ギ" />
+    <h1>ぎ ギ gi</h1>
+</d:entry>
+
+<d:entry id="gu" d:title="gu">
+    <d:index d:value="ぐ" />
+    <d:index d:value="グ" />
+    <h1>ぐ グ gu</h1>
+</d:entry>
+
+<d:entry id="ge" d:title="ge">
+    <d:index d:value="げ" />
+    <d:index d:value="ゲ" />
+    <h1>げ ゲ ge</h1>
+</d:entry>
+
+<d:entry id="go" d:title="go">
+    <d:index d:value="ご" />
+    <d:index d:value="ゴ" />
+    <h1>ご ゴ go</h1>
+</d:entry>
+
+<d:entry id="za" d:title="za">
+    <d:index d:value="ざ" />
+    <d:index d:value="ザ" />
+    <h1>ざ ザ za</h1>
+</d:entry>
+
+<d:entry id="ji" d:title="ji">
+    <d:index d:value="じ" />
+    <d:index d:value="ジ" />
+    <h1>じ ジ ji</h1>
+</d:entry>
+
+<d:entry id="zu" d:title="zu">
+    <d:index d:value="ず" />
+    <d:index d:value="ズ" />
+    <h1>ず ズ zu</h1>
+</d:entry>
+
+<d:entry id="ze" d:title="ze">
+    <d:index d:value="ぜ" />
+    <d:index d:value="ゼ" />
+    <h1>ぜ ゼ ze</h1>
+</d:entry>
+
+<d:entry id="zo" d:title="zo">
+    <d:index d:value="ぞ" />
+    <d:index d:value="ゾ" />
+    <h1>ぞ ゾ zo</h1>
+</d:entry>
+
+<d:entry id="da" d:title="da">
+    <d:index d:value="だ" />
+    <d:index d:value="ダ" />
+    <h1>だ ダ da</h1>
+</d:entry>
+
+<d:entry id="de" d:title="de">
+    <d:index d:value="で" />
+    <d:index d:value="デ" />
+    <h1>で デ de</h1>
+</d:entry>
+
+<d:entry id="do" d:title="do">
+    <d:index d:value="ど" />
+    <d:index d:value="ド" />
+    <h1>ど ド do</h1>
+</d:entry>
+
+<d:entry id="ba" d:title="ba">
+    <d:index d:value="ば" />
+    <d:index d:value="バ" />
+    <h1>ば バ ba</h1>
+</d:entry>
+
+<d:entry id="bi" d:title="bi">
+    <d:index d:value="び" />
+    <d:index d:value="ビ" />
+    <h1>び ビ bi</h1>
+</d:entry>
+
+<d:entry id="bu" d:title="bu">
+    <d:index d:value="ぶ" />
+    <d:index d:value="ブ" />
+    <h1>ぶ ブ bu</h1>
+</d:entry>
+
+<d:entry id="be" d:title="be">
+    <d:index d:value="べ" />
+    <d:index d:value="ベ" />
+    <h1>べ ベ be</h1>
+</d:entry>
+
+<d:entry id="bo" d:title="bo">
+    <d:index d:value="ぼ" />
+    <d:index d:value="ボ" />
+    <h1>ぼ ボ bo</h1>
+</d:entry>
+
+<d:entry id="pa" d:title="pa">
+    <d:index d:value="ぱ" />
+    <d:index d:value="パ" />
+    <h1>ぱ パ pa</h1>
+</d:entry>
+
+<d:entry id="pi" d:title="pi">
+    <d:index d:value="ぴ" />
+    <d:index d:value="ピ" />
+    <h1>ぴ ピ pi</h1>
+</d:entry>
+
+<d:entry id="pu" d:title="pu">
+    <d:index d:value="ぷ" />
+    <d:index d:value="プ" />
+    <h1>ぷ プ pu</h1>
+</d:entry>
+
+<d:entry id="pe" d:title="pe">
+    <d:index d:value="ぺ" />
+    <d:index d:value="ペ" />
+    <h1>ぺ ペ pe</h1>
+</d:entry>
+
+<d:entry id="po" d:title="po">
+    <d:index d:value="ぽ" />
+    <d:index d:value="ポ" />
+    <h1>ぽ ポ po</h1>
+</d:entry>
+
+<d:entry id="kya" d:title="kya">
+    <d:index d:value="きゃ" />
+    <d:index d:value="キャ" />
+    <h1>きゃ キャ kya</h1>
+</d:entry>
+
+<d:entry id="kyu" d:title="kyu">
+    <d:index d:value="きゅ" />
+    <d:index d:value="キュ" />
+    <h1>きゅ キュ kyu</h1>
+</d:entry>
+
+<d:entry id="kyo" d:title="kyo">
+    <d:index d:value="きょ" />
+    <d:index d:value="キョ" />
+    <h1>きょ キョ kyo</h1>
+</d:entry>
+
+<d:entry id="gya" d:title="gya">
+    <d:index d:value="ぎゃ" />
+    <d:index d:value="ギャ" />
+    <h1>ぎゃ ギャ gya</h1>
+</d:entry>
+
+<d:entry id="gyu" d:title="gyu">
+    <d:index d:value="ぎゅ" />
+    <d:index d:value="ギュ" />
+    <h1>ぎゅ ギュ gyu</h1>
+</d:entry>
+
+<d:entry id="gyo" d:title="gyo">
+    <d:index d:value="ぎょ" />
+    <d:index d:value="ギョ" />
+    <h1>ぎょ ギョ gyo</h1>
+</d:entry>
+
+<d:entry id="sha" d:title="sha">
+    <d:index d:value="しゃ" />
+    <d:index d:value="シャ" />
+    <h1>しゃ シャ sha</h1>
+</d:entry>
+
+<d:entry id="shu" d:title="shu">
+    <d:index d:value="しゅ" />
+    <d:index d:value="シュ" />
+    <h1>しゅ シュ shu</h1>
+</d:entry>
+
+<d:entry id="sho" d:title="sho">
+    <d:index d:value="しょ" />
+    <d:index d:value="ショ" />
+    <h1>しょ ショ sho</h1>
+</d:entry>
+
+<d:entry id="ja" d:title="ja">
+    <d:index d:value="じゃ" />
+    <d:index d:value="ジャ" />
+    <h1>じゃ ジャ ja</h1>
+</d:entry>
+
+<d:entry id="ju" d:title="ju">
+    <d:index d:value="じゅ" />
+    <d:index d:value="ジュ" />
+    <h1>じゅ ジュ ju</h1>
+</d:entry>
+
+<d:entry id="jo" d:title="jo">
+    <d:index d:value="じょ" />
+    <d:index d:value="ジョ" />
+    <h1>じょ ジョ jo</h1>
+</d:entry>
+
+<d:entry id="cha" d:title="cha">
+    <d:index d:value="ちゃ" />
+    <d:index d:value="チャ" />
+    <h1>ちゃ チャ cha</h1>
+</d:entry>
+
+<d:entry id="chu" d:title="chu">
+    <d:index d:value="ちゅ" />
+    <d:index d:value="チュ" />
+    <h1>ちゅ チュ chu</h1>
+</d:entry>
+
+<d:entry id="cho" d:title="cho">
+    <d:index d:value="ちょ" />
+    <d:index d:value="チョ" />
+    <h1>ちょ チョ cho</h1>
+</d:entry>
+
+<d:entry id="nya" d:title="nya">
+    <d:index d:value="にゃ" />
+    <d:index d:value="ニャ" />
+    <h1>にゃ ニャ nya</h1>
+</d:entry>
+
+<d:entry id="nyu" d:title="nyu">
+    <d:index d:value="にゅ" />
+    <d:index d:value="ニュ" />
+    <h1>にゅ ニュ nyu</h1>
+</d:entry>
+
+<d:entry id="nyo" d:title="nyo">
+    <d:index d:value="にょ" />
+    <d:index d:value="ニョ" />
+    <h1>にょ ニョ nyo</h1>
+</d:entry>
+
+<d:entry id="hya" d:title="hya">
+    <d:index d:value="ひゃ" />
+    <d:index d:value="ヒャ" />
+    <h1>ひゃ ヒャ hya</h1>
+</d:entry>
+
+<d:entry id="hyu" d:title="hyu">
+    <d:index d:value="ひゅ" />
+    <d:index d:value="ヒュ" />
+    <h1>ひゅ ヒュ hyu</h1>
+</d:entry>
+
+<d:entry id="hyo" d:title="hyo">
+    <d:index d:value="ひょ" />
+    <d:index d:value="ヒョ" />
+    <h1>ひょ ヒョ hyo</h1>
+</d:entry>
+
+<d:entry id="bya" d:title="bya">
+    <d:index d:value="びゃ" />
+    <d:index d:value="ビャ" />
+    <h1>びゃ ビャ bya</h1>
+</d:entry>
+
+<d:entry id="byu" d:title="byu">
+    <d:index d:value="びゅ" />
+    <d:index d:value="ビュ" />
+    <h1>びゅ ビュ byu</h1>
+</d:entry>
+
+<d:entry id="byo" d:title="byo">
+    <d:index d:value="びょ" />
+    <d:index d:value="ビョ" />
+    <h1>びょ ビョ byo</h1>
+</d:entry>
+
+<d:entry id="pya" d:title="pya">
+    <d:index d:value="ぴゃ" />
+    <d:index d:value="ピャ" />
+    <h1>ぴゃ ピャ pya</h1>
+</d:entry>
+
+<d:entry id="pyu" d:title="pyu">
+    <d:index d:value="ぴゅ" />
+    <d:index d:value="ピュ" />
+    <h1>ぴゅ ピュ pyu</h1>
+</d:entry>
+
+<d:entry id="pyo" d:title="pyo">
+    <d:index d:value="ぴょ" />
+    <d:index d:value="ピョ" />
+    <h1>ぴょ ピョ pyo</h1>
+</d:entry>
+
+<d:entry id="mya" d:title="mya">
+    <d:index d:value="みゃ" />
+    <d:index d:value="ミャ" />
+    <h1>みゃ ミャ mya</h1>
+</d:entry>
+
+<d:entry id="myu" d:title="myu">
+    <d:index d:value="みゅ" />
+    <d:index d:value="ミュ" />
+    <h1>みゅ ミュ myu</h1>
+</d:entry>
+
+<d:entry id="myo" d:title="myo">
+    <d:index d:value="みょ" />
+    <d:index d:value="ミョ" />
+    <h1>みょ ミョ myo</h1>
+</d:entry>
+
+<d:entry id="rya" d:title="rya">
+    <d:index d:value="りゃ" />
+    <d:index d:value="リャ" />
+    <h1>りゃ リャ rya</h1>
+</d:entry>
+
+<d:entry id="ryu" d:title="ryu">
+    <d:index d:value="りゅ" />
+    <d:index d:value="リュ" />
+    <h1>りゅ リュ ryu</h1>
+</d:entry>
+
+<d:entry id="ryo" d:title="ryo">
+    <d:index d:value="りょ" />
+    <d:index d:value="リョ" />
+    <h1>りょ リョ ryo</h1>
+</d:entry>
+
+</d:dictionary>
+
